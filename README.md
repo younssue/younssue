@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbe4f6,100:f7baf2&height=240&text=welcome,%20I'm%20younssue🐰&animation=twinkling&fontColor=d760c1&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbe4f6,100:f7baf2&height=240&text=welcome,%20I'm%20yeounsue🐰&animation=twinkling&fontColor=d760c1&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 느리더라도, 결국은 해내는 사람 🐰 </h2>  
