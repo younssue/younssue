@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbe4f6,100:f7baf2&height=240&text=welcome,%20I'm%20yeounsue🐰&animation=twinkling&fontColor=d760c1&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 느리더라도, 결국은 해내는 사람 🐰 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 결국은 해내는 사람 🐰 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 차근차근 성장해 나가는 사람 </div> 
     </div>
     <div style="text-align: left;">
